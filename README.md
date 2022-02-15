@@ -2,3 +2,8 @@
 THESE FILES CONTAIN TWO METHODS FOR SOLVING THE FAMOUS BELOUSOV ZHABOTINSKY REACTION🧪<br/>
 :point_right: USING THE LSODA ALGORITHM<br/>
 :point_right: USING THE RK45 ALGORITHM
+<br/>
+THESE CODES CAN BE DIRECTLY USED USING AN ONLINE CODE EDITOR JUPYTER NOTEBOOK: 
+:point_right: https://jupyter.org/.    <br/>
+:point_right: https://jupyter.org/try
+
